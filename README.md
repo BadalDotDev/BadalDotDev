@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Badal Kamli
 
-### 🚀 Software Engineer (Frontend) | React | Next.js | TypeScript
+### 🚀 Software Engineer (Frontend) | React | Next.js | TypeScript | React Native
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Engineer+(Frontend);Building+Production+Web+%26+Mobile+Apps;React+%7C+Next.js+%7C+TypeScript;Performance+%7C+Architecture+%7C+DX;Exploring+AI+%2B+LLM+Applications" alt="Typing SVG" />
 
