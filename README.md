@@ -170,8 +170,6 @@ I enjoy working on problems around **frontend architecture, performance, SEO, AP
 
 `React Native` `Expo` `TypeScript` `Firebase` `Firestore` `LLM APIs`
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_PROJECT_URL)
-
 ---
 
 ## 📱 What I've Worked On
